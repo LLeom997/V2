@@ -59,3 +59,9 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+#mobile{
+  font-size: 75px;
+  padding-top: 10%;
+  color: #8b423a;
+}
